@@ -2,15 +2,26 @@ import React from "react";
 import Link from "next/link";
 export default function HomePage() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen py-2" style={{backgroundImage: "url('/home/ahmed/kurdistan-flag/public/Flag_of_Kurdistan.png')"}}>
-      <h1 className="text-4xl font-bold mb-5">Welcome to "Unlock the Flag"!</h1>
-      <p className="text-lg mb-2">Join us in celebrating Kurdistan National Flag Day.</p>
-      <p className="text-lg mb-2">Learn about Kurdish culture, history, and geography through engaging questions.</p>
-      <p className="text-lg mb-2">Each correct answer reveals a part of the Kurdistan flag.</p>
-      <p className="text-lg mb-5">Are you ready to unlock the flag?</p>
-      <Link href="/game">
-        <button className="px-4 py-2 font-bold text-wite bg-blue-500 rounded hover:bg-blue-700 animate-pulse">Start</button>
+    <div className="hero min-h-screen" style={{backgroundImage: 'url(https://geopoliticalfutures.com/wp-content/uploads/2019/04/kurdistan-referendum.jpg)'}}>
+    <div className="hero-overlay bg-opacity-60"></div>
+    <div className="hero-content text-center text-neutral-content">
+      <div className=" ">
+        <h1 className="mb-5 text-5xl font-bold ">
+        Welcome to "Unlock the Flag"!
+        </h1>
+        <p className="mb-5 text-xl">Join us in celebrating Kurdistan National Flag Day. <br></br> 
+        Learn about Kurdish culture, history, and geography through engaging questions.
+        <br></br> Each correct answer reveals a part of the Kurdistan flag.
+        <br></br> Are you ready to unlock the flag?
+
+        </p>
+     
+
+        <Link href="/game">
+        <button className="px-16 py-2 font-bold text-wite btn  rounded hover:bg-amber-500 hover:text-white animate-pulse">Start</button>
       </Link>
+      </div>
     </div>
+  </div>
   );
 }
