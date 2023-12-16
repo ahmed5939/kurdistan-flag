@@ -3,16 +3,17 @@ import Link from 'next/link';
 import React, { useState, useEffect } from 'react';
 import Confetti from 'react-confetti';
 
+
+
 const WinningScreen = () => {
-    const [dimensions, setDimensions] = useState({ width: window.innerWidth, height: window.innerHeight });
+    const [dimensions, setDimensions] = useState({ width: 0, height: 0 });
 
     useEffect(() => {
         const handleResize = () => {
-            setDimensions({
-                width: window.innerWidth,
-                height: window.innerHeight
-            });
+            setDimensions({ width: window.innerWidth, height: window.innerHeight });
         };
+
+        handleResize();
 
         window.addEventListener('resize', handleResize);
 
@@ -30,7 +31,6 @@ const WinningScreen = () => {
                     Play Again
                 </button>
             </Link>
-          
         </div>
     );
 };
