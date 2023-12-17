@@ -1,653 +1,1150 @@
 [
   {
-    "text": "What is the capital of Kurdistan?",
+    "text": "where is the capital of kurdistan?",
     "options": [
-      {"id": "A", "text": "Sulaimanyah"},
-      {"id": "B", "text": "Erbil"},  
-      {"id": "C", "text": "Kirkuk"},
-      {"id": "D", "text": "Duhok"}
+      {
+        "id": "A",
+        "text": "Sulaimanyah"
+      },
+      {
+        "id": "B",
+        "text": "Erbil"
+      },
+      {
+        "id": "C",
+        "text": "Kirkuk"
+      },
+      {
+        "id": "D",
+        "text": "Duhok"
+      }
     ],
     "correctOptionId": "B"
   },
-
   {
-    "text": "In which year was the Kurdistan Regional Government formed?", 
+    "text": "In which year was the Kurdistan Regional Government formed?",
     "options": [
-      {"id": "A", "text": "1992"},
-      {"id": "B", "text": "1946"},
-      {"id": "C", "text": "1938"},
-      {"id": "D", "text": "2003"}
+      {
+        "id": "A",
+        "text": "1992"
+      },
+      {
+        "id": "B",
+        "text": "1946"
+      },
+      {
+        "id": "C",
+        "text": "1938"
+      },
+      {
+        "id": "D",
+        "text": "2003"
+      }
     ],
     "correctOptionId": "A"
   },
 
   {
-    "text": "Who was the first president of the Kurditsan region?",
+    "text": "What date is Kurdistan Flag Day celebrated?",
     "options": [
-      {"id": "A", "text": "Nechirvan Barzani"},   
-      {"id": "B", "text": "Jalal Talabani"},
-      {"id": "C", "text": "Masoud Barzani"},
-      {"id": "D", "text": "Hoshyar Zebari"}
+      {
+        "id": "A",
+        "text": "December 17th"
+      },
+      {
+        "id": "B",
+        "text": "March 14th"
+      },
+      {
+        "id": "C",
+        "text": "January 25th"
+      },
+      {
+        "id": "D",
+        "text": "September 8th"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "Who first designed the Kurdistan flag in 1946?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Qazi Muhammad"
+      },
+      {
+        "id": "B",
+        "text": "Mustafa Barzani"
+      },
+      {
+        "id": "C",
+        "text": "Ihsan Nuri Pasha"
+      },
+      {
+        "id": "D",
+        "text": "Shex Mahmud "
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "When was the first Kurdish flag raised?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2003 in Iran"
+      },
+      {
+        "id": "B",
+        "text": "1946 in Iraq"
+      },
+      {
+        "id": "C",
+        "text": "1992 in Turkey"
+      },
+      {
+        "id": "D",
+        "text": "1932 in Syria"
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "text": "When was the Kurdish flag officially adopted?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2000"
+      },
+      {
+        "id": "B",
+        "text": "1992"
+      },
+      {
+        "id": "C",
+        "text": "1990"
+      },
+      {
+        "id": "D",
+        "text": "1946"
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "text": "Who first raised the Kurdish flag in 1932?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mustafa Barzani"
+      },
+      {
+        "id": "B",
+        "text": "Qazi Muhammad"
+      },
+      {
+        "id": "C",
+        "text": "Ihsan Nuri Pasha"
+      },
+      {
+        "id": "D",
+        "text": "Shex Mahmud"
+      }
     ],
     "correctOptionId": "C"
   },
-
   {
-      "text": "What date is Kurdistan Flag Day celebrated?",
-      "options": [
-        {"id": "A", "text": "December 17th"},
-        {"id": "B", "text": "March 14th"},  
-        {"id": "C", "text": "January 25th"},
-        {"id": "D", "text": "September 8th"}
-      ],
-      "correctOptionId": "A"
-    },
-    
-    
-    {
-      "text": "Who first designed the Kurdistan flag in 1946?",
-      "options": [
-        {"id": "A", "text": "Qazi Muhammad"},   
-        {"id": "B", "text": "Mustafa Barzani"},
-        {"id": "C", "text": "Jalal Talabani"},
-        {"id": "D", "text": "Masoud Barzani"}
-      ],
-      "correctOptionId": "A"
-    },
-
-    {
-      "text": "When was the first Kurdish flag raised?",
-      "options": [  
-        {"id": "A", "text": "2003 in Iran"},
-        {"id": "B", "text": "1946 in Iraq"},
-        {"id": "C", "text": "1992 in Turkey"}, 
-        {"id": "D", "text": "1932 in Syria"}
-      ],
-      "correctOptionId": "D" 
-    },
-    {
-        "text": "When was the Kurdish flag officially adopted?",
-        "options": [
-          {"id": "A", "text": "2000"},   
-          {"id": "B", "text": "1992"},
-          {"id": "C", "text": "1990"},
-          {"id": "D", "text": "1946"}
-        ],
-        "correctOptionId": "B"
-      },
-  
-  
-   
-    {
-      "text": "Who first raised the Kurdish flag in 1932?",
-      "options": [
-        {"id": "A", "text": "Mustafa Barzani"},  
-        {"id": "B", "text": "Qazi Muhammad"},
-        {"id": "C", "text": "Ihsan Nuri Pasha"},
-        {"id": "D", "text": "Masoud Barzani"}
-      ],
-      "correctOptionId": "C"
-    },
-
-
-
-
-    {
-      "text": "How many rays does the sun emblem have?", 
-      "options": [
-        {"id": "A", "text": "21"},
-        {"id": "B", "text": "16"}, 
-        {"id": "C", "text": "12"},
-        {"id": "D", "text": "8"}
-      ],
-      "correctOptionId": "A"
-    },
-    
-    {
-      "text": "Which mountain range is a significant geographical feature in Kurdistan?",
-      "options": [
-        {"id": "A", "text": "Halgurd"},   
-        {"id": "B", "text": "Safeen"},
-        {"id": "C", "text": "Zagros"},
-        {"id": "D", "text": "Handren"}
-      ],
-      "correctOptionId": "C"
-    },
-    
-    {
-      "text": "The Kurdish New Year is celebrated in what date?",
-      "options": [
-        {"id": "A", "text": "January 1st"},   
-        {"id": "B", "text": "March 21st"},
-        {"id": "C", "text": "September 10th"},
-        {"id": "D", "text": "December 25th"}
-      ],
-      "correctOptionId": "B"
-    },
-
-    {
-      "text": "Erbil's settelment age is estimated to be:",
-      "options": [
-        {"id": "A", "text": "Over 2,000 years"},   
-        {"id": "B", "text": "Over 1500 years"},
-        {"id": "C", "text": "Over 5,000 years"},
-        {"id": "D", "text": "Over 7,000 years"}
-      ],
-      "correctOptionId": "D"
-    },
-
-    {
-      "text": "What is the traditional Kurdish garment called?",
-      "options": [
-        {"id": "A", "text": "Sherwal"},   
-        {"id": "B", "text": "Kaftan"},
-        {"id": "C", "text": "Jellabiya"},
-        {"id": "D", "text": "Chador"}
-      ],
-      "correctOptionId": "A"
-    },
-
-    {
-      "text": "Which Kurdish city is known for its ancient citadel?",
-      "options": [
-        {"id": "A", "text": "Sulaimanyah"},   
-        {"id": "B", "text": "Duhok"},
-        {"id": "C", "text": "Erbil"},
-        {"id": "D", "text": "Kirkuk"}
-      ],
-      "correctOptionId": "C"
-    },
-
-
-    {
-      "text": "Kurds primarily follow which Islamic branch?",
-      "options": [
-        {"id": "A", "text": "Shia"},   
-        {"id": "B", "text": "Ahmadi"},
-        {"id": "C", "text": "Ismaili"},
-        {"id": "D", "text": "Sunni"}
-      ],
-      "correctOptionId": "D"
-    },
-
-
-
-
-    {
-      "text": "Which instrument is commonly used in Kurdish music?",
-      "options": [
-        {"id": "A", "text": "Ney"},   
-        {"id": "B", "text": "Oud"},
-        {"id": "C", "text": "Saz"},
-        {"id": "D", "text": "Daf"}
-      ],
-      "correctOptionId": "C"
-    },
-
-
-    {
-      "text": "What's known as Kurdistan's cultural capital?",
-      "options": [
-        {"id": "A", "text": "Erbil"},   
-        {"id": "B", "text": "Duhok"},
-        {"id": "C", "text": "Kirkuk"},
-        {"id": "D", "text": "Sulaimanyah"}
-      ],
-      "correctOptionId": "D"
-    },
-
-    {
-      "text": "In Kurdish folklore, who is the hero of the 'Mem and Zin' love story?",
-      "options": [
-        {"id": "A", "text": "Mem"},   
-        {"id": "B", "text": "Shirin"},
-        {"id": "C", "text": "Xani"},
-        {"id": "D", "text": "Kawa"}
-      ],
-      "correctOptionId": "A"
-    },
-
-    {
-      "text": "What is the most widely spoken dialect of Kurdish?",
-      "options": [
-        {"id": "A", "text": "Zazaki"},   
-        {"id": "B", "text": "Sorani"},
-        {"id": "C", "text": "Hawrami"},
-        {"id": "D", "text": "Kurmanji"}
-      ],
-      "correctOptionId": "D"
-    },
-
-
-
-    {
-      "text": "Who wrote 'Ey Reqîb,' Kurdistan's anthem?",
-      "options": [
-        {"id": "A", "text": "Dildar"},   
-        {"id": "B", "text": "Mahwy"},
-        {"id": "C", "text": "Sherko Bekas"},
-        {"id": "D", "text": "Nali"}
-      ],
-      "correctOptionId": "A"
-    },
-
-
-
-
-    {
-      "text": "Which Kurdish leader founded the Republic of Mahabad?",
-      "options": [
-        {"id": "A", "text": "Mustafa Barzani"},   
-        {"id": "B", "text": "Qazi Muhammed"},
-        {"id": "C", "text": "Jalal Talabani"},
-        {"id": "D", "text": "Malik Mahmoud"}
-      ],
-      "correctOptionId": "B"
-    },
-
-
-
-    {
-      "text": "In which year did the Anfal Campaign against the Kurdish people begin?",
-      "options": [
-        {"id": "A", "text": "1986"},   
-        {"id": "B", "text": "1980"},
-        {"id": "C", "text": "1988"},
-        {"id": "D", "text": "1990"}
-      ],
-      "correctOptionId": "C"
-    },
-
-
-
-    {
-      "text": "The Kurdish region is divided among how many countries?",
-      "options": [
-        {"id": "A", "text": "2"},   
-        {"id": "B", "text": "4"},
-        {"id": "C", "text": "3"},
-        {"id": "D", "text": "5"}
-      ],
-      "correctOptionId": "B"
-    },
-
-
-
-
-    {
-      "text": "What was the primary Kurdish resistance group during the 1970s and 1980s?",
-      "options": [
-        {"id": "A", "text": "Peshmarga"},   
-        {"id": "B", "text": "PKK"},
-        {"id": "C", "text": "YPG"},
-        {"id": "D", "text": "HPG"}
-      ],
-      "correctOptionId": "A"
-    },
-
-
-
-
-
-
-
-    {
-      "text": "The Kurdish area in Syria is commonly known as what?",
-      "options": [
-        {"id": "A", "text": "Bakur"},   
-        {"id": "B", "text": "Roj Halat"},
-        {"id": "C", "text": "Rojava"},
-        {"id": "D", "text": "Bahur"}
-      ],
-      "correctOptionId": "C"
-    },
-
-
-
-    {
-      "text": "What was the main reason for the establishment of the no-fly zone over Kurdistan in 1991?",
-      "options": [
-        {"id": "A", "text": "To protect oil fields"},   
-        {"id": "B", "text": "To prevent further military incursions by Iraq"},
-        {"id": "C", "text": "To establish a new government"},
-        {"id": "D", "text": "All the answers are correct"}
-      ],
-      "correctOptionId": "D"
-    },
-
-    {
-      "text": "What is the name of the largest lake in Kurdistan?",
-      "options": [
-        {"id": "A", "text": "Sirwan"},   
-        {"id": "B", "text": "Dukan"},
-        {"id": "C", "text": "Zrebar"},
-        {"id": "D", "text": "Wan"}
-      ],
-      "correctOptionId": "B"
-    },
-
-    {
-      "text": "In which year did the city of Halabja suffer a chemical attack?",
-      "options": [
-        {"id": "A", "text": "1986"},   
-        {"id": "B", "text": "1991"},
-        {"id": "C", "text": "1988"},
-        {"id": "D", "text": "1980"}
-      ],
-      "correctOptionId": "C"
-    },
-
-    {
-      "text": "Who wrote the famous Kurdish epic 'Mem û Zîn'?",
-      "options": [
-        {"id": "A", "text": "Ahmadi Xani"},   
-        {"id": "B", "text": "Hemin Mukriyani"},
-        {"id": "C", "text": "Mala Jeladet Badr Xan"},
-        {"id": "D", "text": "Jigar Xwen"}
-      ],
-      "correctOptionId": "A"
-    },
-
-
-    {
-      "text": "Kirkuk is known for its rich deposits of which natural resource?",
-      "options": [
-        {"id": "A", "text": "Gold"},   
-        {"id": "B", "text": "Uranium"},
-        {"id": "C", "text": "Oil & Gas"},
-        {"id": "D", "text": "Water"}
-      ],
-      "correctOptionId": "C"
-    },
-
-
-
-    {
-      "text": "Sulaymaniyah was founded in which century?",
-      "options": [
-        {"id": "A", "text": "17th Century"},   
-        {"id": "B", "text": "18th Century"},
-        {"id": "C", "text": "19th Century"},
-        {"id": "D", "text": "20th Century"}
-      ],
-      "correctOptionId": "B"
-    },
-
-
-
-
-    {
-      "text": "What is the name of the prominent museum in Sulaymaniyah that documents Kurdish history?",
-      "options": [
-        {"id": "A", "text": "Sulaimanyah National Musem"},   
-        {"id": "B", "text": "Kurdistan Museum"},
-        {"id": "C", "text": "Amna Suraka Museum"},
-        {"id": "D", "text": "None"}
-      ],
-      "correctOptionId": "C"
-    },
-
-
-
-
-
-
-    {
-      "text": "Which ancient civilization had a significant influence on the city of Kirkuk?",
-      "options": [
-        {"id": "A", "text": "Babylonian"},   
-        {"id": "B", "text": "Medes"},
-        {"id": "C", "text": "Assyrian"},
-        {"id": "D", "text": "Ottoman"}
-      ],
-      "correctOptionId": "C"
-    },
-
-
-
-
-    {
-      "text": "Sulaymaniyah is home to the oldest?",
-      "options": [
-        {"id": "A", "text": "Hospital in Kurditsan"},   
-        {"id": "B", "text": "Mosque in Kurdistan"},
-        {"id": "C", "text": "Market in Kurdistan"},
-        {"id": "D", "text": "University in Kurdistan"}
-      ],
-      "correctOptionId": "D"
-    },
-
-
-
-
-    {
-      "text": "Sulaymaniyah's Grand Millennium Hotel is notable for its?",
-      "options": [
-        {"id": "A", "text": "Historic architecture"},   
-        {"id": "B", "text": "Underground shopping mall"},
-        {"id": "C", "text": " Panoramic city views"},
-        {"id": "D", "text": "All are correct"}
-      ],
-      "correctOptionId": "C"
-    },
-
-
-
-
-    {
-      "text": "Erbil International Airport is known for its?",
-      "options": [
-        {"id": "A", "text": "Unique architecture"},   
-        {"id": "B", "text": "Duty-free shopping"},
-        {"id": "C", "text": "Longest runway in Iraq"},
-        {"id": "D", "text": "Both A&C"}
-      ],
-      "correctOptionId": "C"
-    },
-
-
-
-    {
-      "text": "Sulaymaniyah is famous for its?",
-      "options": [
-        {"id": "A", "text": "Annual music festival"},   
-        {"id": "B", "text": "Hot springs"},
-        {"id": "C", "text": "Winter sports resorts"},
-        {"id": "D", "text": "Delicious food"}
-      ],
-      "correctOptionId": "A"
-    },
-
-
-
-    {
-      "text": "What is the name of the large park in the center of Erbil?",
-      "options": [
-        {"id": "A", "text": "Shanidar Park"},   
-        {"id": "B", "text": "Peshmarga Park"},
-        {"id": "C", "text": "Sami Abdulrahman Park"},
-        {"id": "D", "text": "Azadi Park"}
-      ],
-      "correctOptionId": "C"
-    },
-
-
-
-
-    {
-      "text": "The Sulaymaniyah Museum is known for its collection of?",
-      "options": [
-        {"id": "A", "text": "Modern art"},   
-        {"id": "B", "text": "Ancient artifacts"},
-        {"id": "C", "text": "Natural history exhibits"},
-        {"id": "D", "text": "Cultural relics"}
-      ],
-      "correctOptionId": "B"
-    },
-
-
-
-
-    {
-      "text": "The Sulaymaniyah International Airport opened in which year?",
-      "options": [
-        {"id": "A", "text": "2000"},   
-        {"id": "B", "text": "2001"},
-        {"id": "C", "text": "2003"},
-        {"id": "D", "text": "2005"}
-      ],
-      "correctOptionId": "C"
-    },
-
-
-
-
-    {
-      "text": "The University of Sulaymaniyah,was established in which year?",
-      "options": [
-        {"id": "A", "text": "1968"},   
-        {"id": "B", "text": "1980"},
-        {"id": "C", "text": "1975"},
-        {"id": "D", "text": "1990"}
-      ],
-      "correctOptionId": "A"
-    },
-
-
-  
-    {
-        "text": "What do the sun's 21 rays symbolize?",
-        "options": [
-          {"id": "A", "text": "March 21, Kurdish New Year"},  
-          {"id": "B", "text": "21 Kurdish provinces"},
-          {"id": "C", "text": "21 battles"}, 
-          {"id": "D", "text": "21 days of protest"}
-        ],
-        "correctOptionId": "A"
-      } ,
-
-
-  
-    {
-        "text": "in Kurdish culture, 'Yekbûn' symbolizes:",
-        "options": [
-          {"id": "A", "text": "Love"},  
-          {"id": "B", "text": "Unity"},
-          {"id": "C", "text": "Wisdom"}, 
-          {"id": "D", "text": "Bravery"}
-        ],
-        "correctOptionId": "B"
-      },
-
-
-  
+    "text": "How many rays does the sun emblem have?",
+    "options": [
       {
-          "text": "Kurdish music often includes themes of:",
-          "options": [
-            {"id": "A", "text": "Urban life"},  
-            {"id": "B", "text": "War and politics"},
-            {"id": "C", "text": "Religious devotion"}, 
-            {"id": "D", "text": "Nature and love"}
-          ],
-          "correctOptionId": "D"
-        },
-
-
-  
-        {
-            "text": "Kurdish literature is known for its:",
-            "options": [
-              {"id": "A", "text": "Poetry"},  
-              {"id": "B", "text": "Plays"},
-              {"id": "C", "text": "Novels"}, 
-              {"id": "D", "text": "Short stories"}
-            ],
-            "correctOptionId": "A"
-          },
-
-
-  
-          {
-              "text": "Which Kurdish city is known for its ancient walls and historic architecture?",
-              "options": [
-                {"id": "A", "text": "Erbil"},  
-                {"id": "B", "text": "Wan"},
-                {"id": "C", "text": "Diyarbakir"}, 
-                {"id": "D", "text": "Sulaimanyah"}
-              ],
-              "correctOptionId": "C"
-            },
-
-
-  
-            {
-                "text": "Who is a famous Kurdish poet?",
-                "options": [
-                  {"id": "A", "text": "Rumi"},  
-                  {"id": "B", "text": "Ahmadi Xani"},
-                  {"id": "C", "text": "Hafez"}, 
-                  {"id": "D", "text": "Omar Khayyam"}
-                ],
-                "correctOptionId": "B"
-              },
-
-
-  
-              {
-                  "text": "Which international day is celebrated by Kurds wearing traditional clothes?",
-                  "options": [
-                    {"id": "A", "text": "International Dance Day"},  
-                    {"id": "B", "text": "International Music Day"},
-                    {"id": "C", "text": "Kurdish Clothing Day"}, 
-                    {"id": "D", "text": "World Folklore Day"}
-                  ],
-                  "correctOptionId": "C"
-                },
-
-
-  
-                {
-                    "text": "The Kurdish literary movement experienced a revival during which century?",
-                    "options": [
-                      {"id": "A", "text": "16th Century"},  
-                      {"id": "B", "text": "17th Century"},
-                      {"id": "C", "text": "19th Century"}, 
-                      {"id": "D", "text": "20th Century"}
-                    ],
-                    "correctOptionId": "D"
-                  },
-
-
-  
-                  {
-                      "text": "'Sherko Bekas' is known for his contributions to:",
-                      "options": [
-                        {"id": "A", "text": "Kurdish novel writing"},  
-                        {"id": "B", "text": "Kurdish poetry"},
-                        {"id": "C", "text": "Kurdish playwriting"}, 
-                        {"id": "D", "text": "Kurdish music composition"}
-                      ],
-                      "correctOptionId": "B"
-                    },
-
-
-  
-                    {
-                        "text": "Which Kurdish poet is known for their mystical and spiritual themes?",
-                        "options": [
-                          {"id": "A", "text": "Nâzım Hikmet"},  
-                          {"id": "B", "text": "Ahmad Khani"},
-                          {"id": "C", "text": "Mawlana Khalid"}, 
-                          {"id": "D", "text": "Pir Sultan Abdal"}
-                        ],
-                        "correctOptionId": "C"
-                      }
-
-
-  
-
-   
-
-   
-
-  ]
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "Which mountain range is a significant geographical feature in Kurdistan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Halgurd"
+      },
+      {
+        "id": "B",
+        "text": "Safeen"
+      },
+      {
+        "id": "C",
+        "text": "Zagros"
+      },
+      {
+        "id": "D",
+        "text": "Handren"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "The Kurdish New Year is celebrated in what date?",
+    "options": [
+      {
+        "id": "A",
+        "text": "January 1st"
+      },
+      {
+        "id": "B",
+        "text": "March 21st"
+      },
+      {
+        "id": "C",
+        "text": "September 10th"
+      },
+      {
+        "id": "D",
+        "text": "December 25th"
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "text": "Erbil's settelment age is estimated to be:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Over 2,000 years"
+      },
+      {
+        "id": "B",
+        "text": "Over 1500 years"
+      },
+      {
+        "id": "C",
+        "text": "Over 5,000 years"
+      },
+      {
+        "id": "D",
+        "text": "Over 7,000 years"
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "text": "What is the traditional Kurdish garment called?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sherwal"
+      },
+      {
+        "id": "B",
+        "text": "Kaftan"
+      },
+      {
+        "id": "C",
+        "text": "Jellabiya"
+      },
+      {
+        "id": "D",
+        "text": "Chador"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "Which Kurdish city is known for its ancient citadel?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sulaimanyah"
+      },
+      {
+        "id": "B",
+        "text": "Duhok"
+      },
+      {
+        "id": "C",
+        "text": "Erbil"
+      },
+      {
+        "id": "D",
+        "text": "Kirkuk"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "Which instrument is commonly used in Kurdish music?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ney"
+      },
+      {
+        "id": "B",
+        "text": "Oud"
+      },
+      {
+        "id": "C",
+        "text": "Saz"
+      },
+      {
+        "id": "D",
+        "text": "Daf"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "What's known as Kurdistan's cultural capital?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Erbil"
+      },
+      {
+        "id": "B",
+        "text": "Duhok"
+      },
+      {
+        "id": "C",
+        "text": "Kirkuk"
+      },
+      {
+        "id": "D",
+        "text": "Sulaimanyah"
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "text": "In Kurdish folklore, who is the hero of the 'Mem and Zin' love story?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mem"
+      },
+      {
+        "id": "B",
+        "text": "Shirin"
+      },
+      {
+        "id": "C",
+        "text": "Xani"
+      },
+      {
+        "id": "D",
+        "text": "Kawa"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "What is the most widely spoken dialect of Kurdish?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Zazaki"
+      },
+      {
+        "id": "B",
+        "text": "Sorani"
+      },
+      {
+        "id": "C",
+        "text": "Hawrami"
+      },
+      {
+        "id": "D",
+        "text": "Kurmanji"
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "text": "Who wrote 'Ey Reqîb,' Kurdistan's anthem?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dildar"
+      },
+      {
+        "id": "B",
+        "text": "Mahwy"
+      },
+      {
+        "id": "C",
+        "text": "Sherko Bekas"
+      },
+      {
+        "id": "D",
+        "text": "Nali"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "Which Kurdish leader founded the Republic of Mahabad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mustafa Barzani"
+      },
+      {
+        "id": "B",
+        "text": "Qazi Muhammed"
+      },
+      {
+        "id": "C",
+        "text": "Ihsan Nuri Pasha"
+      },
+      {
+        "id": "D",
+        "text": "Malik Mahmoud"
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "text": "In which year did the Anfal Campaign against the Kurdish people begin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1986"
+      },
+      {
+        "id": "B",
+        "text": "1980"
+      },
+      {
+        "id": "C",
+        "text": "1988"
+      },
+      {
+        "id": "D",
+        "text": "1990"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "The Kurdish region is divided among how many countries?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      },
+      {
+        "id": "D",
+        "text": "5"
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "text": "What was the primary Kurdish resistance group during the 1970s and 1980s?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Peshmarga"
+      },
+      {
+        "id": "B",
+        "text": "PKK"
+      },
+      {
+        "id": "C",
+        "text": "YPG"
+      },
+      {
+        "id": "D",
+        "text": "HPG"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "The Kurdish area in Syria is commonly known as what?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bakur"
+      },
+      {
+        "id": "B",
+        "text": "Roj Halat"
+      },
+      {
+        "id": "C",
+        "text": "Rojava"
+      },
+      {
+        "id": "D",
+        "text": "Bahur"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "What was the main reason for the establishment of the no-fly zone over Kurdistan in 1991?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To protect oil fields"
+      },
+      {
+        "id": "B",
+        "text": "To prevent further military incursions by Iraq"
+      },
+      {
+        "id": "C",
+        "text": "To establish a new government"
+      },
+      {
+        "id": "D",
+        "text": "All the answers are correct"
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "text": "What is the name of the largest lake in Kurdistan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sirwan"
+      },
+      {
+        "id": "B",
+        "text": "Dukan"
+      },
+      {
+        "id": "C",
+        "text": "Zrebar"
+      },
+      {
+        "id": "D",
+        "text": "Wan"
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "text": "In which year did the city of Halabja suffer a chemical attack?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1986"
+      },
+      {
+        "id": "B",
+        "text": "1991"
+      },
+      {
+        "id": "C",
+        "text": "1988"
+      },
+      {
+        "id": "D",
+        "text": "1980"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "Who wrote the famous Kurdish epic 'Mem û Zîn'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ahmadi Xani"
+      },
+      {
+        "id": "B",
+        "text": "Hemin Mukriyani"
+      },
+      {
+        "id": "C",
+        "text": "Mala Jeladet Badr Xan"
+      },
+      {
+        "id": "D",
+        "text": "Jigar Xwen"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "Kirkuk is known for its rich deposits of which natural resource?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gold"
+      },
+      {
+        "id": "B",
+        "text": "Uranium"
+      },
+      {
+        "id": "C",
+        "text": "Oil & Gas"
+      },
+      {
+        "id": "D",
+        "text": "Water"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "Sulaymaniyah was founded in which century?",
+    "options": [
+      {
+        "id": "A",
+        "text": "17th Century"
+      },
+      {
+        "id": "B",
+        "text": "18th Century"
+      },
+      {
+        "id": "C",
+        "text": "19th Century"
+      },
+      {
+        "id": "D",
+        "text": "20th Century"
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "text": "Which ancient civilization had a significant influence on the city of Kirkuk?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Babylonian"
+      },
+      {
+        "id": "B",
+        "text": "Medes"
+      },
+      {
+        "id": "C",
+        "text": "Assyrian"
+      },
+      {
+        "id": "D",
+        "text": "Ottoman"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "Sulaymaniyah is home to the oldest?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hospital in Kurditsan"
+      },
+      {
+        "id": "B",
+        "text": "Mosque in Kurdistan"
+      },
+      {
+        "id": "C",
+        "text": "Market in Kurdistan"
+      },
+      {
+        "id": "D",
+        "text": "University in Kurdistan"
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "text": "Sulaymaniyah's Grand Millennium Hotel is notable for its?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Historic architecture"
+      },
+      {
+        "id": "B",
+        "text": "Underground shopping mall"
+      },
+      {
+        "id": "C",
+        "text": " Panoramic city views"
+      },
+      {
+        "id": "D",
+        "text": "All are correct"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "Erbil International Airport is known for its?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Unique architecture"
+      },
+      {
+        "id": "B",
+        "text": "Modern design"
+      },
+      {
+        "id": "C",
+        "text": "Longest runway in Iraq"
+      },
+      {
+        "id": "D",
+        "text": "Both A&C"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "Sulaymaniyah is famous for its?",
+    "options": [
+      
+      {
+        "id": "A",
+        "text": "cultural heritage"
+      },
+      {
+        "id": "B",
+        "text": "natural beauty"
+      },
+      {
+        "id": "C",
+        "text": "historical sites"
+      },
+      {
+        "id": "D",
+        "text": "cuzine"
+      }
+    
+    
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "What is the name of the large park in the center of Erbil?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shanidar Park"
+      },
+      {
+        "id": "B",
+        "text": "Peshmarga Park"
+      },
+      {
+        "id": "C",
+        "text": "Sami Abdulrahman Park"
+      },
+      {
+        "id": "D",
+        "text": "Azadi Park"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "The Sulaymaniyah Museum is known for its collection of?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Modern art"
+      },
+      {
+        "id": "B",
+        "text": "Ancient artifacts"
+      },
+      {
+        "id": "C",
+        "text": "Natural history exhibits"
+      },
+      {
+        "id": "D",
+        "text": "Cultural relics"
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "text": "The Sulaymaniyah International Airport opened in which year?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2000"
+      },
+      {
+        "id": "B",
+        "text": "2001"
+      },
+      {
+        "id": "C",
+        "text": "2003"
+      },
+      {
+        "id": "D",
+        "text": "2005"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "The University of Sulaymaniyah,was established in which year?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1968"
+      },
+      {
+        "id": "B",
+        "text": "1980"
+      },
+      {
+        "id": "C",
+        "text": "1975"
+      },
+      {
+        "id": "D",
+        "text": "1990"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "What do the sun's 21 rays symbolize?",
+    "options": [
+      {
+        "id": "A",
+        "text": "March 21, Kurdish New Year"
+      },
+      {
+        "id": "B",
+        "text": "21 Kurdish provinces"
+      },
+      {
+        "id": "C",
+        "text": "21 battles"
+      },
+      {
+        "id": "D",
+        "text": "21 days of protest"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "in Kurdish culture, 'Yekbûn' symbolizes:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Love"
+      },
+      {
+        "id": "B",
+        "text": "Unity"
+      },
+      {
+        "id": "C",
+        "text": "Wisdom"
+      },
+      {
+        "id": "D",
+        "text": "Bravery"
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "text": "Kurdish music often includes themes of:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Urban life"
+      },
+      {
+        "id": "B",
+        "text": "War and politics"
+      },
+      {
+        "id": "C",
+        "text": "Religious devotion"
+      },
+      {
+        "id": "D",
+        "text": "Nature and love"
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "text": "Kurdish literature is known for its:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Poetry"
+      },
+      {
+        "id": "B",
+        "text": "Plays"
+      },
+      {
+        "id": "C",
+        "text": "Novels"
+      },
+      {
+        "id": "D",
+        "text": "Short stories"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "Which Kurdish city is known for its ancient walls and historic architecture?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Erbil"
+      },
+      {
+        "id": "B",
+        "text": "sanandaj"
+      },
+      {
+        "id": "C",
+        "text": "Diyarbakir"
+      },
+      {
+        "id": "D",
+        "text": "Sulaimanyah"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "Who is a famous Kurdish poet?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rumi"
+      },
+      {
+        "id": "B",
+        "text": "Ahmadi Xani"
+      },
+      {
+        "id": "C",
+        "text": "Hafez"
+      },
+      {
+        "id": "D",
+        "text": "Omar Khayyam"
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "text": "Which international day is celebrated by Kurds wearing traditional clothes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "International Dance Day"
+      },
+      {
+        "id": "B",
+        "text": "International Music Day"
+      },
+      {
+        "id": "C",
+        "text": "Kurdish Clothing Day"
+      },
+      {
+        "id": "D",
+        "text": "World Folklore Day"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "The Kurdish literary movement experienced a revival during which century?",
+    "options": [
+      {
+        "id": "A",
+        "text": "16th Century"
+      },
+      {
+        "id": "B",
+        "text": "17th Century"
+      },
+      {
+        "id": "C",
+        "text": "19th Century"
+      },
+      {
+        "id": "D",
+        "text": "20th Century"
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "text": "'Sherko Bekas' is known for his contributions to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kurdish novel writing"
+      },
+      {
+        "id": "B",
+        "text": "Kurdish poetry"
+      },
+      {
+        "id": "C",
+        "text": "Kurdish playwriting"
+      },
+      {
+        "id": "D",
+        "text": "Kurdish music composition"
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "text": "Which Kurdish poet is known for their mystical and spiritual themes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nâzım Hikmet"
+      },
+      {
+        "id": "B",
+        "text": "Ahmad Khani"
+      },
+      {
+        "id": "C",
+        "text": "Mawlana Khalid"
+      },
+      {
+        "id": "D",
+        "text": "Pir Sultan Abdal"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "text": "Which country has the largest Kurdish population?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Turkey"
+      },
+      {
+        "id": "B",
+        "text": "Iran"
+      },
+      {
+        "id": "C",
+        "text": "Iraq"
+      },
+      {
+        "id": "D",
+        "text": "Syria"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "text": "What do Kurds commemorate on 'Red Wednesday' on March 16th?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Halabja chemical attack"
+      },
+      {
+        "id": "B",
+        "text": "Anfal campaign"
+      },
+      {
+        "id": "C",
+        "text": "Start of Kurdish revolts"
+      },
+      {
+        "id": "D",
+        "text": "Kurdish independence declaration"
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "text": "What is the name of the mountain known as Kurdistan's highest peak?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Handren"
+      },
+      {
+        "id": "B",
+        "text": "Safeen"
+      },
+      {
+        "id": "C",
+        "text": "Zozik"
+      },
+      {
+        "id": "D",
+        "text": "Halgurd"
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "text": "Who is a historic Kurdish leader?",
+    "options": [
+      {
+        "id": "A",
+        "text": "salahdin ayubi"
+      },
+      {
+        "id": "B",
+        "text": "khalid bin waleed"
+      },
+      {
+        "id": "C",
+        "text": "jangiz khan"
+      },
+      {
+        "id": "D",
+        "text": "eskenader"
+      }
+    ],
+    "correctOptionId": "A"
+  }
+]
